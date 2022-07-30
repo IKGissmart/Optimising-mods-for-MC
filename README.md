@@ -17,7 +17,7 @@
 
 ----
 ## The mods which may work or may not.
-### These are the mods which can make your game faster and increase FPS by alot but these mods might not work on some PCs.
+### These are the mods which can make your game faster and increase FPS by alot but these mods might not work on some PCs. The above list of list of mods with the exception of Optifine/Optifabric can work with following mods also.
 - **Sodium** [Website](https://www.curseforge.com/minecraft/mc-mods/sodium) Sodium is a free and open-source rendering engine replacement for the Minecraft client which greatly improves frame rates and stuttering while fixing many graphical issues. 
 [Note: If you're going to use sodium then Optifine/Optifabric will not work instead you have to use Iris mod]
 - **Phosphor** [Website](https://www.curseforge.com/minecraft/mc-mods/phosphor) Phosphor is a Minecraft mod which works to optimize one of game's most inefficient areas-- the lighting engine. It works on both the client and server, and can be installed on servers without requiring clients to also have the mod. 
