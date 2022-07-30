@@ -12,7 +12,7 @@
 - **Krypton** [Website](https://www.curseforge.com/minecraft/mc-mods/krypton) Server Package and Network Stack optimization.
 - **Lambdynamiclights** [Website](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) Adds Dynamic lights in the game.
 - **Fabric API** [Website](https://www.curseforge.com/minecraft/mc-mods/fabric-api) A compatibility mod to avoid conflict or errors.
-- **Optifine** [Website](https://www.optifine.net/home)An old school minecraft mod which allows Minecraft to run faster and look better with full support for HD textures and many configuration options.(Shaders mod)
+- **Optifine** [Website](https://www.optifine.net/home)An old school minecraft mod which allows Minecraft to run faster and look better with full support for HD textures and many configuration options.(Shaders mod)[Note: Yo use Optifine with fabric , you need to use optifabric]
 - **Optifabric** [Website](https://www.curseforge.com/minecraft/mc-mods/optifabric) OptiFabric is a mod that can be used to run OptiFine on the Fabric Mod Loader. It does this by taking the official OptiFine mod and making it compatible with the Fabric Mod Loader at runtime.
 
 ----
