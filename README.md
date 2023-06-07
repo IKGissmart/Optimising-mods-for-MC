@@ -35,9 +35,7 @@ Are you ready to take your Minecraft experience to the next level? Get ready to 
 
 - **Optifabric**: Take Optifine to new horizons! This mod seamlessly integrates Optifine with the Fabric Mod Loader, granting you unparalleled visual experiences. Get it [here](https://www.curseforge.com/minecraft/mc-mods/optifabric).
 
-## 💥 Unlock New Dimensions of Performance (Caution
-
-: May Vary)
+## 💥 Unlock New Dimensions of Performance (Caution: May Vary)
 
 ### Push the Boundaries, But Proceed With Caution:
 
