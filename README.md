@@ -1,5 +1,5 @@
 
-# Unleash the Power: The Best Minecraft Optimizing Mods for 1.19 [Fabric]
+# Unleash the Power: The Best Minecraft Optimizing Mods for 1.20 [Fabric]
 
 ----
 
